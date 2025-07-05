@@ -10,7 +10,7 @@ This repository is collectively maintained by:
 
 ## 📁 Contents
 
-This repository includes various academic projects, assignments, and resources contributed by the MANIT community.
+This repository includes various software projects and resources contributed by the MANIT community.
 
 ## 🚀 Contributing
 
