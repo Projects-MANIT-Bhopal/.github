@@ -16,8 +16,10 @@ Students and CCF members are welcome to contribute by:
 3. Submitting a pull request
 
 ## Projects 
-- [ATM-RGS](./ATM-RGS.md)
 
+This section contains projects that are currently being developed by the MANIT community:
+- [ATM-RGS](./ATM-RGS.md)
+  
 ## 📞 Contact
 For any queries or suggestions, please reach out to the Central Computing Facility or create an issue in this repository.
 
